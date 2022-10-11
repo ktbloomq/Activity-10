@@ -1,6 +1,5 @@
 ﻿//CST-150
 //Lydia's code
-//Corrected by Kevin Bloomquist
 using System;
 using System.Collections.Generic;
 using System.Linq;
